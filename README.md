@@ -1,7 +1,7 @@
 # Detecting-Sarcasam-on-Reddit
 ### Executive Summary
 Data Collected from: https://www.kaggle.com/danofer/sarcasm
-
+The aim of this project is to detect sarcastic remarks from Reddit posts on numerous Reddit pages based on the content of the comment as well as other variable such as to research if the upvotes, downvotes and original post from which the comment was collected has an impact on our model detecting sarcasm 
 <br><br>
 
 
