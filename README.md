@@ -3,8 +3,6 @@
 Data Collected from: https://www.kaggle.com/danofer/sarcasm
 <br><br>
 
-<br><br>
-### Pre-Processing Steps
 
 <br><br>
 ### Statistical Anaylsis
