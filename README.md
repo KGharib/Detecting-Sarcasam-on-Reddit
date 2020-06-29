@@ -24,8 +24,14 @@ Building a model which can detect sarcasam in text which has applications in thi
 2. **Data Understanding**  
 Column Names and descriptions for Data set:
 
+
 <br><br>
 3. **Modelling**
+Baseline model is Logistic Regression
+optimized logistic regression through gridsearch
+used RandomForest with gridsearch to improve results
+applied GradientBoost to further improve results
+Finally applied Neural network to get the best results
 
 <br><br>
 4. **Findings**
