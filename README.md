@@ -18,7 +18,7 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 <br><br>
 ### Methodology
 1. **Business Understanding** 
-Building a model which can detect sarcasam in text which has applications in things like online shops, websites that give reviews, forums that disucss items and much more.
+Building a model which can detect sarcasam in text which has applications in things like online shops, websites that give reviews, forums that disucss items and much more. Therefore we are building this model so that it can be used as a 3rd party application for the specific business needs of our customers
 
 <br> <br>
 2. **Data Understanding**  
