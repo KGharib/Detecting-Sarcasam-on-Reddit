@@ -23,7 +23,16 @@ Building a model which can detect sarcasam in text which has applications in thi
 <br> <br>
 2. **Data Understanding**  
 Column Names and descriptions for Data set:
-
+label
+comment
+author
+subreddit
+score
+ups
+downs
+date
+created_utc
+parent_comment
 
 <br><br>
 3. **Modelling**
