@@ -27,13 +27,13 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 2. **Data Understanding**  
 Column Names and descriptions for Data set:
 - label
-- comment
-- author
-- subreddit
+- comment: the textual comment
+- author: which user posted that comment
+- subreddit: the subreddit that the comment was posted to(subreddit is similar to the theme/genre)
 - score
-- ups
-- downs
-- date
+- ups: the number of upvotes a comment received
+- downs: the number of downvotes a comment receieved
+- date: data a comment was posted
 - created_utc
 - parent_comment
 
