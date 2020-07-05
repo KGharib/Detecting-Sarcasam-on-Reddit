@@ -16,8 +16,8 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 
 <br><br>
 ### Questions:
-Q1. Which variable contributes most to our label?
-Q2. which model is able to best predict sarcasam from the dataset
+- Q1. Which variable contributes most to our label?
+- Q2. which model is able to best predict sarcasam from the dataset
 
 <br><br>
 ### Methodology
