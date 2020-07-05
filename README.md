@@ -7,8 +7,10 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 
 <br><br>
 ### Pre-Processing Steps
--  Explanatory Data Analysis of each column and checking the distribution
+- Explanatory Data Analysis of each column and checking the distribution
 - finding which columns contribute to the label most
+- Inspecting the different subreddits
+- Checking distrubtion of labels 
 <br><br>
 ### Statistical Anaylsis
 
