@@ -4,13 +4,13 @@ Data Collected from: https://www.kaggle.com/danofer/sarcasm
 The aim of this project is to detect sarcastic remarks from Reddit posts on numerous Reddit pages based on the content of the comment as well as other variable such as to number of upvotes, downvotes and original post(parent post) from which the comment was collected has an impact on detecting sarcasm 
 <br><br>
 
-
 <br><br>
 ### Pre-Processing Steps
 - Explanatory Data Analysis of each column and checking the distribution
 - finding which columns contribute to the label most
 - Inspecting the different subreddits
 - Checking distrubtion of labels 
+- Feature extraction using tfidf which converts a collection of  documents to a matrix of TF-IDF features
 <br><br>
 ### Statistical Anaylsis
 
