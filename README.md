@@ -10,14 +10,14 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 - finding which columns contribute to the label most
 - Inspecting the different subreddits
 - Checking distrubtion of labels 
-- Feature extraction using tfidf which converts a collection of  documents to a matrix of TF-IDF features
+- Feature extraction using tfidf which converts a collection of documents to a matrix of TF-IDF features
 <br><br>
 ### Statistical Anaylsis
 
 <br><br>
 ### Questions:
 - Q1. Which variable contributes most to our label?
-- Q2. which model is able to best predict sarcasam from the dataset
+- Q2. which type of model is able to best predict sarcasam from the dataset
 
 <br><br>
 ### Methodology
@@ -26,7 +26,7 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 <br> <br>
 2. **Data Understanding**  
 Column Names and descriptions for Data set:
-- label
+- label: 1 indicating it was a sarcastic comment and 0 for a non-sarcastic comment
 - comment: the textual comment
 - author: which user posted that comment
 - subreddit: the subreddit that the comment was posted to(subreddit is similar to the theme/genre)
