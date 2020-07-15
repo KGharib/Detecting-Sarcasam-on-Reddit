@@ -35,15 +35,14 @@ Column Names and descriptions for Data set:
 - downs: the number of downvotes a comment receieved
 - date: data a comment was posted
 - created_utc
-- parent_comment: the original post/comment from which the comment is a child of.
+G- parent_comment: the original post/comment from which the comment is a child of.
 
 <br><br>
 3. **Modelling**
-Baseline model is Logistic Regression
-optimized logistic regression through gridsearch
-used RandomForest with gridsearch to improve results
-applied GradientBoost to further improve results
-Finally applied Neural network to get the best results
+We started with a baseline model using Logisitic Regression, we further improved it by applying a grid search to find the best hyper parameters. 
+We then used a RandomForest with GridSearch. 
+(WIP) Applied a GradientBoost 
+Finally we applied a Neural Network 
 
 <br><br>
 4. **Findings**
