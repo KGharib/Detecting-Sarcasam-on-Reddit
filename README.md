@@ -39,10 +39,10 @@ G- parent_comment: the original post/comment from which the comment is a child o
 
 <br><br>
 3. **Modelling**
-We started with a baseline model using Logisitic Regression, we further improved it by applying a grid search to find the best hyper parameters. 
-We then used a RandomForest with GridSearch. 
-(WIP) Applied a GradientBoost 
-Finally we applied a Neural Network 
+- We started with a baseline model using Logisitic Regression, we further improved it by applying a grid search to find the best hyper parameters. 
+- We then used a RandomForest with GridSearch. 
+- (WIP) Applied a GradientBoost 
+- (WIP)Finally we applied a Neural Network 
 
 <br><br>
 4. **Findings**
