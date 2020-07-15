@@ -30,12 +30,12 @@ Column Names and descriptions for Data set:
 - comment: the textual comment
 - author: which user posted that comment
 - subreddit: the subreddit that the comment was posted to(subreddit is similar to the theme/genre)
-- score
+- score: the score given when aggregating the ups and downs.
 - ups: the number of upvotes a comment received
 - downs: the number of downvotes a comment receieved
 - date: data a comment was posted
 - created_utc
-- parent_comment
+- parent_comment: the original post/comment from which the comment is a child of.
 
 <br><br>
 3. **Modelling**
