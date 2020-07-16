@@ -12,6 +12,8 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 - Feature extraction using tfidf which converts a collection of documents to a matrix of TF-IDF features
 <br><br>
 ### Statistical Anaylsis
+- ensured that the labels were equally distributed 
+- inspected the distribution of Subreddits
 
 <br><br>
 ### Questions:
