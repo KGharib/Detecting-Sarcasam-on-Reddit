@@ -40,10 +40,10 @@ Column Names and descriptions for Data set:
 
 <br><br>
 3. **Modelling**
-- We started with a baseline model using Logisitic Regression, we further improved it by applying a grid search to find the best hyper parameters. 
-- We then used a RandomForest with GridSearch. 
-- (WIP) Applied a GradientBoost 
-- (WIP)Finally we applied a Neural Network 
+- Baseline model using Logisitic Regression, which was further improved by applying a grid search to find the best hyper parameters. 
+- RandomForest with GridSearch. 
+- (WIP)GradientBoost 
+- (WIP)Neural Network 
 
 <br><br>
 4. **Findings**
