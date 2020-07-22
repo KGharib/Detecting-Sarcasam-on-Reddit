@@ -36,7 +36,7 @@ Column Names and descriptions for Data set:
 - downs: the number of downvotes a comment receieved
 - date: data a comment was posted
 - created_utc
-G- parent_comment: the original post/comment from which the comment is a child of.
+- parent_comment: the original post/comment from which the comment is a child of.
 
 <br><br>
 3. **Modelling**
