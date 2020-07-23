@@ -5,15 +5,15 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 <br><br>
 
 ### Pre-Processing Steps
-- Explanatory Data Analysis of each column and checking the distribution
-- finding which columns contribute to the label most
+- Explanatory Data Analysis of each column 
+- Finding which columns contribute to the label most
 - Inspecting the different subreddits
 - Checking distrubtion of labels 
 - Feature extraction using tfidf which converts a collection of documents to a matrix of TF-IDF features
 <br><br>
 ### Statistical Anaylsis
 - ensured that the labels were equally distributed 
-
+- inspected the distribution of Subreddits
 
 <br><br>
 ### Questions:
