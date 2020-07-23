@@ -13,7 +13,7 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 <br><br>
 ### Statistical Anaylsis
 - ensured that the labels were equally distributed 
-- inspected the distribution of Subreddits
+
 
 <br><br>
 ### Questions:
