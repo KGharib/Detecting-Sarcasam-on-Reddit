@@ -5,8 +5,8 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 <br><br>
 
 ### Pre-Processing Steps
-- Explanatory Data Analysis of each column 
-- Finding which columns contribute to the label most
+- Explanatory Data Analysis of each feature column.
+- Analysing which columns contribute to the label most
 - Inspecting the different subreddits
 - Checking distrubtion of labels 
 - Feature extraction using tfidf which converts a collection of documents to a matrix of TF-IDF features
@@ -23,7 +23,7 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 <br><br>
 ### Methodology
 1. **Business Understanding** 
-- We want to create a model to detect sarcasam from reddit posts in order to use the model for outside applications in things like online shops, websites that give reviews, forums that disucss items and much more. Therefore we are building this model so that it can be used as a 3rd party application for the specific business needs of our customers
+- The aim is to create a model to detect sarcasam from reddit posts, another aim is to use the model framework made from this project for outside applications in things like online shops reviews, any reviews/critique websites, forums that disucss items and much more. Therefore this model will have much more flexibility and use and can be used as a 3rd party application for the specific business needs of the customers
 <br> <br>
 2. **Data Understanding**  
 Column Names and descriptions for Data set:
