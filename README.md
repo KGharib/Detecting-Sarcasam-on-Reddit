@@ -47,6 +47,12 @@ Column Names and descriptions for Data set:
 
 <br><br>
 4. **Findings**
+- Final Logistic Regression results: 
+ CV score = 0.721
+ Accuracy Score: 0.72 
+ Recall Score: 0.68 
+ F1-Score: 0.71
+
 
 <br><br>
 5.  **Future Tasks**
