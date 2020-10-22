@@ -1,6 +1,7 @@
 # Detecting-Sarcasam-on-Reddit
 ### Executive Summary
 Data was Collected from: https://www.kaggle.com/danofer/sarcasm
+<br>
 The aim of this project is to detect sarcastic remarks from Reddit posts on numerous Reddit pages based on the content of the comment as well as other variable such as to number of upvotes, downvotes and original post(parent post) from which the comment was collected has an impact on detecting sarcasm,Furthermore the aim of this project is to create a model which can be repurposed and used in a variety of projects.
 <br><br>
 
@@ -23,7 +24,7 @@ The aim of this project is to detect sarcastic remarks from Reddit posts on nume
 <br><br>
 ### Methodology
 1. **Business Understanding** 
-- The aim is to create a model to detect sarcasam from reddit posts, another aim is to use the model framework made from this project for outside applications in things like online shops reviews, any reviews/critique websites, forums that disucss items and much more. Therefore this model will have much more flexibility and use and can be used as a 3rd party application for the specific business needs of the customers
+- The aim is to create a model using different Machine Learning tools to detect sarcasam from reddit posts, another aim is to use the model framework made from this project for outside applications in things like online shops reviews, any reviews/critique websites, forums that disucss items and much more. Therefore this model will have much more flexibility and use and can be used as a 3rd party application for the specific business needs of the customers
 <br> <br>
 2. **Data Understanding**  
 Column Names and descriptions for Data set:
