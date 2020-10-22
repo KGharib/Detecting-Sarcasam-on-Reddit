@@ -2,6 +2,8 @@
 ### Executive Summary
 Data was Collected from: https://www.kaggle.com/danofer/sarcasm
 <br>
+<br>
+
 The aim of this project is to detect sarcastic remarks from Reddit posts on numerous Reddit pages based on the content of the comment as well as other variable such as to number of upvotes, downvotes and original post(parent post) from which the comment was collected has an impact on detecting sarcasm,Furthermore the aim of this project is to create a model which can be repurposed and used in a variety of projects.
 <br><br>
 
